@@ -1,0 +1,5 @@
+Név:Tünet:Kezelés:Időpont:Ár
+Pentele Lajos:hasfájás:moxa:2021-02-01:12000
+Rangos Béla:fülzúgás:fültű:2021-02-01:5000
+Parti Ilona:fejfájás:moxa:2021-02-02:12000
+Csat Imre:fogfájás:tű:2021-02-02:5000
